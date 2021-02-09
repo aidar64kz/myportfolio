@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Aidar Aukenov",
+    "occupation": "Frontend Developer",
+    "description": "Simplicity is the soul of efficiency.",
+    "image": "profilepic.jpg",
+    "bio": "Self-taught web developer with a strong knowledge of modern web technologies. Looking to be part of a team that is passionate about solving interesting problems. My strengths are JS (ES5 and higher) and JS technologies. After 4 years of administrative positions decided to change my career. During that time, I was able to develop a strong foundation on how to work efficiently solo and most importantly as a team. Always interested in expanding my horizons, new challenges, and getting my hands dirty with different technology stacks.",
+    "contactmessage": "Get in touch with me",
+    "email": "aydar.aukenov@gmail.com",
+    "phone": "+36 20 5354428",
+    "address": {
+      "street": "14 Dregely utca",
+      "city": "Budapest",
+      "state": "Budapest",
+      "zip": "1097"
+    },
+    "website": "My resume",
+    "resumedownload": "https://drive.google.com/file/d/18EerSWP766rCVo3TCoylWcr2VZbAmYoX/view?usp=sharing",
+    "social": [
+      {
+        "name": "codersrank",
+        "url": "https://profile.codersrank.io/user/aidar64kz",
+        "className": "fa fa-terminal"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aukenov.aydar",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aidaraukenov",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aydar64kz/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aidar64kz",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills and Knowledge",
+    "education": [
+      {
+        "school": "Suleyman Demirel University - Kazakhstan",
+        "degree": "MSc Management",
+        "graduated": "June 2021",
+        "description": "Favourite courses: Leadership and Teamwork, Organizational Beahavior, Change Management, Corporate Finance"
+      }
+    ],
+    "work": [
+      {
+        "company": "FlashBands",
+        "title": "Founder and CEO",
+        "years": "December 2020 - Present",
+        "description": "Online retail shop of sporting goods."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Web Design",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "Time Management",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Face Recognition App",
+        "category": "FULLSTACK",
+        "image": "facedetection.png",
+        "url": "https://tinyurl.com/facedetectionapp"
+      },
+      {
+        "title": "LinkedIn Clone",
+        "category": "REACT",
+        "image": "linkedinclone.png",
+        "url": "https://tinyurl.com/linkedinclone"
+      },
+      {
+        "title": "Friends List",
+        "category": "REACT",
+        "image": "friendslist.png",
+        "url": "https://tinyurl.com/friendsreact"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Aidar is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us...",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Aidar has been AWESOME, he makes helped to learn React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
