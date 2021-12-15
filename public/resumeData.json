@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Aidar Aukenov",
-    "occupation": "Frontend Developer",
+    "occupation": "Fullstack Developer",
     "description": "Simplicity is the soul of efficiency.",
     "image": "profilepic.jpg",
-    "bio": "Self-taught web developer with a strong knowledge of modern web technologies. Looking to be part of a team that is passionate about solving interesting problems. My strengths are JS (ES5 and higher) and JS technologies. After 4 years of administrative positions decided to change my career. During that time, I was able to develop a strong foundation on how to work efficiently solo and most importantly as a team. Always interested in expanding my horizons, new challenges, and getting my hands dirty with different technology stacks.",
+    "bio": "Software Developer with a strong knowledge of modern web technologies. Looking to be part of a team that is passionate about solving interesting problems. My strengths are JS (ES5 and higher) and JS technologies (React, Node). After 4 years of administrative positions in 2020 I decided to change my career towards software development. During that time, I was able to develop a strong foundation on how to work efficiently solo and most importantly as a team. Always interested in expanding my horizons, new challenges, and getting my hands dirty with different technology stacks.",
     "contactmessage": "Get in touch with me",
     "email": "aydar.aukenov@gmail.com",
-    "phone": "+36 20 5354428",
+    "phone": "+372 5801 9490",
     "address": {
-      "street": "14 Dregely utca",
-      "city": "Budapest",
-      "state": "Budapest",
-      "zip": "1097"
+      "street": "Oismae",
+      "city": "Tallinn",
+      "state": "Harju",
+      "zip": "13512"
     },
     "website": "My resume",
     "resumedownload": "https://drive.google.com/file/d/18EerSWP766rCVo3TCoylWcr2VZbAmYoX/view?usp=sharing",
@@ -48,17 +48,24 @@
     "skillmessage": "My Skills and Knowledge",
     "education": [
       {
+        "school": "Zero to Mastery Academy",
+        "degree": "Fullstack Web Developer",
+        "graduated": "Nov 2020",
+        "description": "What I learned: HTML5/CSS3, JavaScript, SASS, Bootstrap, Advanced JS Concepts, OOP, FP, React, Redux, Hooks, Node, Express, Next, MongoDB, PostgreSQL, Firebase, Git"
+      },
+      {
         "school": "Suleyman Demirel University - Kazakhstan",
         "degree": "MSc Management",
         "graduated": "June 2021",
         "description": "Favourite courses: Leadership and Teamwork, Organizational Beahavior, Change Management, Corporate Finance"
       }
+
     ],
     "work": [
       {
         "company": "FlashBands",
         "title": "Founder and CEO",
-        "years": "December 2020 - Present",
+        "years": "December 2020 - February 2020",
         "description": "Online retail shop of sporting goods."
       }
     ],

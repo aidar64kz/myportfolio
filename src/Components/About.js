@@ -32,13 +32,13 @@ const About = ({ data }) => {
             <div className="columns contact-details">
               <h2>Contact Details</h2>
               <p className="address">
-                <span>{name}</span>
+               {/* <span>{name}</span>
                 <br />
-                <span>
+                 <span>
                   {street}
                   <br />
                   {city} {state}, {zip}
-                </span>
+                </span> */}
                 <br />
                 <span>{phone}</span>
                 <br />
