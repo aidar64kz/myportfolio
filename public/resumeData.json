@@ -117,12 +117,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Aidar is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us...",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Aidar has been AWESOME, he makes helped to learn React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Success is not final; failure is not fatal: it is the courage to continue that counts.",
+        "user": "Winston Churchill"
       }
     ]
   }
